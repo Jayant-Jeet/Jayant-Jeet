@@ -1,10 +1,4 @@
-# Hi, I'm Jayant Jeet 👋
-
-> Software developer | Open-source enthusiast | Lifelong learner
-
-[![An image of @jayantjeet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayantjeet)](https://holopin.io/@jayantjeet)
-
-Welcome to my GitHub profile! I build full-stack web applications, developer tools, and automation scripts. Below you'll find a short summary of my skills, featured projects, and how to get in touch.
+<img width="1210" height="474" alt="image" src="https://github.com/user-attachments/assets/39cbf14a-8cef-4e68-b702-5dcc297271dd" />
 
 ## About Me
 
@@ -12,26 +6,8 @@ Welcome to my GitHub profile! I build full-stack web applications, developer too
 - 🌱 I’m learning advanced backend systems and cloud-native architectures.
 - 👯 I’m open to collaborating on interesting open-source projects.
 - 💬 Ask me about JavaScript, TypeScript, Node.js, and Python.
-
-## Skills
-
-- Languages: JavaScript, TypeScript, Python
-- Frontend: React, Next.js, Tailwind CSS
-- Backend: Node.js, Express, PostgreSQL
-- DevOps: Docker, GitHub Actions, CI/CD
-
-## Featured Projects
-
-- [my-portfolio](https://github.com/Jayant-Jeet/my-portfolio) — Personal portfolio website (live: [halfloodcoder.com](https://www.halfbloodcoder.com/))
-- [ltt-sme-planner-backend](https://github.com/Jayant-Jeet/ltt-sme-planner-backend) — Backend for SME planner service
-
-## Contact
-
-- Email: [jayant.jeet.tomar.me@gmail.com](mailto:jayant.jeet.tomar.me@gmail.com)
-- LinkedIn: [Jayant Jeet](https://www.linkedin.com/in/jjtomar/)
-- Website: [halfloodcoder.com](https://www.halfloodcoder.com/)
-
----
+#
+[![An image of @jayantjeet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayantjeet)](https://holopin.io/@jayantjeet)
 
 ## GitHub Stats
 
