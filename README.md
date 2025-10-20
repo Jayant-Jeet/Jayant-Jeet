@@ -25,8 +25,6 @@ Welcome to my GitHub profile! I build full-stack web applications, developer too
 - [my-portfolio](https://github.com/Jayant-Jeet/my-portfolio) — Personal portfolio website (live: [halfloodcoder.com](https://www.halfbloodcoder.com/))
 - [ltt-sme-planner-backend](https://github.com/Jayant-Jeet/ltt-sme-planner-backend) — Backend for SME planner service
 
-_Thanks — replace or expand project descriptions as you like._
-
 ## Contact
 
 - Email: [jayant.jeet.tomar.me@gmail.com](mailto:jayant.jeet.tomar.me@gmail.com)
