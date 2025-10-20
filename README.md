@@ -1,12 +1,16 @@
-<img width="1210" height="474" alt="image" src="https://github.com/user-attachments/assets/39cbf14a-8cef-4e68-b702-5dcc297271dd" />
+# Hello World
+
+[![Profile Banner](https://github.com/user-attachments/assets/39cbf14a-8cef-4e68-b702-5dcc297271dd)](https://www.halfbloodcoder.com/)
 
 ## About Me
 
 - 🔭 I’m currently working on web apps and developer tooling.
-- 🌱 I’m learning advanced backend systems and cloud-native architectures.
+- 🌱 I’m learning advanced devops and cloud-native architectures.
 - 👯 I’m open to collaborating on interesting open-source projects.
-- 💬 Ask me about JavaScript, TypeScript, Node.js, and Python.
-#
+- 💬 Ask me about Java, SpringBoot, JavaScript, TypeScript, Angular, Node.js, and Python.
+
+---
+
 [![An image of @jayantjeet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayantjeet)](https://holopin.io/@jayantjeet)
 
 ## GitHub Stats
